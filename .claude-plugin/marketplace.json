@@ -1,0 +1,10 @@
+{
+  "name": "nano-banana-2-plugins",
+  "owner": { "name": "Envision-Construction (forked from daveremy)" },
+  "plugins": [{
+    "name": "nano-banana-2",
+    "source": { "source": "github", "repo": "Envision-Construction/nano-banana-2-mcp" },
+    "description": "Image generation with Google Gemini Nano Banana 2 via MCP (Envision-Construction fork)",
+    "version": "0.1.1"
+  }]
+}
